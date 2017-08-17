@@ -1,0 +1,8 @@
+C:\github\dotnetcoreiis\bin\Debug\netcoreapp1.1\dotnetcoreiis.deps.json
+C:\github\dotnetcoreiis\bin\Debug\netcoreapp1.1\dotnetcoreiis.runtimeconfig.json
+C:\github\dotnetcoreiis\bin\Debug\netcoreapp1.1\dotnetcoreiis.runtimeconfig.dev.json
+C:\github\dotnetcoreiis\bin\Debug\netcoreapp1.1\dotnetcoreiis.dll
+C:\github\dotnetcoreiis\bin\Debug\netcoreapp1.1\dotnetcoreiis.pdb
+C:\github\dotnetcoreiis\obj\Debug\netcoreapp1.1\dotnetcoreiis.AssemblyInfo.cs
+C:\github\dotnetcoreiis\obj\Debug\netcoreapp1.1\dotnetcoreiis.dll
+C:\github\dotnetcoreiis\obj\Debug\netcoreapp1.1\dotnetcoreiis.pdb
